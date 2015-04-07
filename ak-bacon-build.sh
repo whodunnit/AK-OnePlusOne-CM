@@ -33,7 +33,7 @@ REPACK_DIR="${HOME}/android/AK-OnePone-AnyKernel2"
 PATCH_DIR="${HOME}/android/AK-OnePone-AnyKernel2/patch"
 MODULES_DIR="${HOME}/android/AK-OnePone-AnyKernel2/modules"
 ZIP_MOVE="${HOME}/android/AK-releases"
-ZIMAGE_DIR="${HOME}/android/AK-OnePone/arch/arm/boot"
+ZIMAGE_DIR="${HOME}/android/AK-OnePone-Reborn/arch/arm/boot"
 
 # Functions
 function clean_all {
